@@ -172,3 +172,13 @@ Potential extensions include:
 - Python-based preprocessing and validation
 - SQL-based analytical data preparation
 - Additional economic indicators from official German statistical sources
+
+## 👤 Author
+
+**Chathuni Abinthandalage**  
+M.Sc. Economics | Research and Data Analyst  
+
+- LinkedIn: https://www.linkedin.com/in/chathuni-abinthandalage-025417198
+- GitHub: https://github.com/chathuni-abinthandalage
+
+This project was independently developed as part of my data analytics and business intelligence portfolio.
