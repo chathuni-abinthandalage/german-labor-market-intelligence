@@ -58,6 +58,8 @@ Power Query is used to:
 
 ### Data Model
 
+![Power BI Data Model](screenshots/Data-Model.png)
+
 The Power BI model uses a dimensional structure with:
 
 **Dimension tables**
@@ -89,6 +91,16 @@ The analytical layer includes measures for:
 Time-intelligence calculations use the dedicated `DimDate` table rather than embedding reporting periods directly into individual calculations.
 
 ## 📈 Dashboard Pages
+
+### Dashboard Preview
+
+#### Executive Overview
+
+![Executive Overview](screenshots/Executive-Overview.png)
+
+#### Regional Analysis
+
+![Regional Analysis](screenshots/Regional-Analysis.png)
 
 ### 1. Executive Overview
 
